@@ -1,1 +1,1 @@
-that draws a straight line in the terminal
+that draws a diagonal line on the terminal
