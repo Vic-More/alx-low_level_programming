@@ -1,1 +1,1 @@
-main.h is the header file with the functions
+function that fills memory with a constant byte
