@@ -1,1 +1,1 @@
-main.h is the header file containing the function
+function that prints a string, followed by a new line
