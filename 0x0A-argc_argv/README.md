@@ -1,1 +1,1 @@
-main.h is the header file containing all the function prototypes
+program that prints its name, followed by a new line
