@@ -1,0 +1,1 @@
+main.h is a header file containing all the prototypes of the functions stored in the libmy.a librarymain.h is a header file containing all the prototypes of the functions stored in the libmy.a librarymain
