@@ -1,1 +1,1 @@
-C - More malloc, free
+function that allocates memory using malloc
