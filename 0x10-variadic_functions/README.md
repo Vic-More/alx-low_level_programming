@@ -1,1 +1,1 @@
-header file that contains all function prototypes
+a function that returns the sum of all its parameters
