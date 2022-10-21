@@ -1,1 +1,1 @@
-header file containing the definition of list_t and the prototypes of all functions.
+a function that prints all the elements of a list_t list
