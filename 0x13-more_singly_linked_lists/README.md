@@ -1,1 +1,1 @@
-This includes prototypes of all your functions and the prototype of the function _putchar
+a function that returns the number of elements in a linked listint_t list
