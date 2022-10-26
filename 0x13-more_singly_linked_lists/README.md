@@ -1,1 +1,1 @@
-a function that returns the number of elements in a linked listint_t list
+This includes the prototypes of all your functions and the prototype of the function _putchar
