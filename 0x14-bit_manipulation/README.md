@@ -1,1 +1,1 @@
- prototypes of all your functions
+function that converts a binary number to an unsigned int
