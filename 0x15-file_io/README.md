@@ -1,1 +1,1 @@
-This is the prototypes of all your functions and the prototype of the function _putchar
+function that reads a text file and prints it to the POSIX standard output
